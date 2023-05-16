@@ -8,8 +8,5 @@
 - AndroidClient: Android Client for Remote Access to NEMO-UX.
 
 ## Sources Used
-### HttpsServer
-* [conference.js](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/Pluginfree-Screen-Sharing) MIT License
-### AndroidClient
-* [android](https://www.android.com/) Apache License 2.0
+You can view sources used here: [licenses.xlsx](licenses.xlsx) (Generated via FOSSLight Source Scanner)
 
